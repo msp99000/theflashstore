@@ -1,0 +1,93 @@
+credentials:
+  usernames:
+    seller:
+      email: seller@gmail.com
+      name: Seller
+      password: $2b$12$1rNI0h1y/XDTf6FbaMgIbOKrGeLYFsmt.Zoo2SjTgi.iFjIZFg3fa
+    owais:
+      email: owais@gmail.com
+      name: Owais 
+      password: $2b$12$x1fI/ZsXMfm7pCJ3LnRBGO9svLG3q/lB6H719UOT1.AzoUtededoy
+    # saad:
+    #   email: saad@gmail.com
+    #   name: Saad
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa 
+    # rashid:
+    #   email: rashid@gmail.com
+    #   name: Rashid 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # ali:
+    #   email: ali@gmail.com
+    #   name: Ali 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # rohan:
+    #   email: rohan@gmail.com
+    #   name: Rohan 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # mark:
+    #   email: mark@gmail.com
+    #   name: Mark
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # imran:
+    #   email: imran@gmail.com
+    #   name: Imran 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # pablo:
+    #   email: pablo@gmail.com
+    #   name: Pablo 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # ebaad:
+    #   email: ebaad@gmail.com
+    #   name: Ebaad 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # olajide:
+    #   email: olajide@gmail.com
+    #   name: Olajide 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # asiya:
+    #   email: asiya@gmail.com
+    #   name: Asiya 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # sarah:
+    #   email: sarah@gmail.com
+    #   name: Sarah 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # elliot:
+    #   email: elliot@gmail.com
+    #   name: Elliot 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # maheen:
+    #   email: maheen@gmail.com
+    #   name: Maheen 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # jessica:
+    #   email: jessica@gmail.com
+    #   name: Jessica 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # matilda:
+    #   email: matilda@gmail.com
+    #   name: Matilda 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # alena:
+    #   email: alena@gmail.com
+    #   name: Alena 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # emma:
+    #   email: emma@gmail.com
+    #   name: Emma 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # elsa:
+    #   email: elsa@gmail.com
+    #   name: Elsa 
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+    # afrah:
+    #   email: afrah@gmail.com
+    #   name: Afrah
+    #   password: $2b$12$dKWqZglYjY20v1JQbNf8S.oAaKV8G4xesf6msFFCSbTBQjUZX1mGa
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: Sales Dashboard
+preauthorized:
+  emails:
+  - mikee@gmail.com
