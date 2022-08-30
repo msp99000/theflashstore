@@ -1,4 +1,3 @@
-from turtle import color
 from plots import *
 from styles import *
 from backend import *
